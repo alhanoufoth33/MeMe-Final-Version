@@ -1,4 +1,4 @@
-## MeMe-V2
+## MeMe- Final Version
 
 This is Version 2 of the app, complete with a table view, collection view, and temporary storage.
 
